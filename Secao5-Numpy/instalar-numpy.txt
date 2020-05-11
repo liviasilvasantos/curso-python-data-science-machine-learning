@@ -1,0 +1,11 @@
+Para instalar o Numpy no macos:
+
+    sudo pip3 install numpy
+
+Biblioteca de álgebra linear.
+
+Numpy array são essencialmente de duas formas: vetores e matrizes.
+
+Vetores: arrays de 1-d
+
+Matrizes: arrays de 2-d (porém você pode notar que uma matriz pode ter apenas 1 linha ou coluna)
