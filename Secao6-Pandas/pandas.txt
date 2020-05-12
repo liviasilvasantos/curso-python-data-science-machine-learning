@@ -1,0 +1,9 @@
+Para instalar o Pandas no macos:
+
+    sudo pip3 install pandas
+
+Biblioteca de visualização de dados
+Muito semelhante ao excel
+Dados armazenados em dataframes
+Pode trabalhar com dados de diversos tipos
+Possui métodos próprios de visualização de dados
