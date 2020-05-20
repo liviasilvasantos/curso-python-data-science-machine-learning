@@ -1,9 +1,21 @@
-Para instalar o Pandas no macos:
+# Pandas
 
+- Biblioteca de visualização de dados
+- Muito semelhante ao excel
+- Dados armazenados em dataframes
+- Pode trabalhar com dados de diversos tipos
+- Possui métodos próprios de visualização de dados
+
+## Para instalar o Pandas:
     sudo pip3 install pandas
 
-Biblioteca de visualização de dados
-Muito semelhante ao excel
-Dados armazenados em dataframes
-Pode trabalhar com dados de diversos tipos
-Possui métodos próprios de visualização de dados
+## Para ler excel, precisa instalar xlrd:
+    sudo pip3 install xlrd
+    
+## Para salvar excel, precisa instalar openpyxl:
+    sudo pip3 install openpyxl
+    
+## Para ler arquivos html, precisa instalar lxml:
+    sudo pip3 install lxml e reiniciar o jupyter
+    
+    Também precisa entrar no finder em Applications/Python 3.8 e executar Install Certificates.command e depois o Update Shell Profile.command
